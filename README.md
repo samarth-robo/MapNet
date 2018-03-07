@@ -8,5 +8,5 @@ Coming soon.
 ## Supplementary Material
 ### Supplementary Video
 [![Supplementary Video](https://img.youtube.com/vi/JI0fxfkj2HY/0.jpg)](https://www.youtube.com/watch?v=JI0fxfkj2HY)
-### Attention Maps
+### Attention Maps Video
 [![Attention Maps](https://img.youtube.com/vi/197N30A9RdE/0.jpg)](https://www.youtube.com/watch?v=197N30A9RdE)
