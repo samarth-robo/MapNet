@@ -6,6 +6,7 @@ This is the project page for the CVPR 2018 Spotlight paper "MapNet: Geometry-Awa
 Coming soon.
 
 ## Supplementary Material
-- [Supplementary Video](https://youtu.be/JI0fxfkj2HY)
-- [Attention Maps](http://youtu.be/197N30A9RdE)
-- [![Attention Maps](https://img.youtube.com/vi/197N30A9RdE/0.jpg)](https://www.youtube.com/watch?v=197N30A9RdE)
+### Supplementary Video
+[![Supplementary Video](https://img.youtube.com/vi/JI0fxfkj2HY/0.jpg)](https://www.youtube.com/watch?v=JI0fxfkj2HY)
+### Attention Maps
+[![Attention Maps](https://img.youtube.com/vi/197N30A9RdE/0.jpg)](https://www.youtube.com/watch?v=197N30A9RdE)
