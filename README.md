@@ -5,7 +5,7 @@ This is the project page for the CVPR 2018 Spotlight paper "Geometry-Aware Learn
 [Paper](https://arxiv.org/abs/1712.03342) | [Supplementary Material](https://arxiv.org/abs/1712.03342)
 
 ## Code and Models
-Will be released [here](http://research.nvidia.com/publication/2018-06_Geometry-Aware-Learning-of).
+[Project Page at Nvidia](http://research.nvidia.com/publication/2018-06_Geometry-Aware-Learning-of) | [Github](https://github.com/NVlabs/geomapnet)
 
 ## Supplementary Material
 ### Supplementary Video
