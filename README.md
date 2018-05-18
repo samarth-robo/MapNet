@@ -5,7 +5,18 @@ This is the project page for the CVPR 2018 Spotlight paper "Geometry-Aware Learn
 [Paper](https://arxiv.org/abs/1712.03342) | [Supplementary Material](https://arxiv.org/abs/1712.03342)
 
 ## Code and Models
-[Project Page at Nvidia](http://research.nvidia.com/publication/2018-06_Geometry-Aware-Learning-of) | [Github](https://github.com/NVlabs/geomapnet)
+[Project Page at Nvidia](http://research.nvidia.com/publication/2018-06_Geometry-Aware-Learning-of) | [Github](https://github.com/NVlabs/geomapnet) | [Trained PyTorch Models](https://drive.google.com/open?id=1J2QG_nHrRTKcDf9CGXRK9MWH1h-GuMLy)
+
+## Citation
+If you find this code useful for your research, please cite our paper
+```
+@inproceedings{mapnet2018,
+  title={Geometry-Aware Learning of Maps for Camera Localization},
+  author={Samarth Brahmbhatt and Jinwei Gu and Kihwan Kim and James Hays and Jan Kautz},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2018}
+}
+```
 
 ## Supplementary Material
 ### Supplementary Video
